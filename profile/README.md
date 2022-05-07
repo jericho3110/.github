@@ -1,4 +1,4 @@
-# Scarlet CSS
+# Scarlet CSS 🎊
 
 our company is dedicated to the development of the Scarlet-CSS framework
 
@@ -8,24 +8,27 @@ The Scarlet CSS framework aims to make web development easier and reduce the has
 
 you can use this framework to build good looking and responsive web pages.
 
+**anyone interested in contributing is welcome. kindly join our discord server**
+### [github 🙂](https://discord.gg/ujpJNpvCa8)
+
 # credits
 
-> Founder
+> Founder 🏅
 ### Aryan tripathi
 #### discord: AryanTripathi#1313
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)
 ---
-> CEO
+> CEO 🏅
 ### Edge tech coder
 #### discord: Edge tech coder404 ⌁乛ᴿᴰ#6053
 #### [github: Edgetec](https://github.com/Edgetec)
 ---
-> CTO
+> CTO 🏅
 ### Jericho
 #### discord: South Valley#4534
 #### [github: jericho3110](https://github.com/jericho3110)
 ---
-> COO 
+> COO 🏅
 ### Aniket sharma
 #### discord: aniket#2430
 #### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)

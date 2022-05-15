@@ -4,7 +4,7 @@ Arantic tutorials is our company which is trying to make knowledge more accessib
 
 We create interactive text based tutorials.
 
-All of our team members have at least 3 years of coding experience.
+All of our team members have a good experience in programming.
 
 **anyone interested in contributing is welcome. kindly join our discord server**
 ### [discord 🙂](https://discord.gg/ujpJNpvCa8)

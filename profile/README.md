@@ -1,15 +1,13 @@
-# Scarlet CSS 🎊
+# Arantic tutorials 🎊
 
-our company is dedicated to the development of the Scarlet-CSS framework
+Arantic tutorials is our company which is trying to make knowledge more accessible to people
 
-Scarlet CSS helps you to build high performance and light weight web pages
+We create interactive text based tutorials.
 
-The Scarlet CSS framework aims to make web development easier and reduce the hassle of web developers by providing pre-made styles.
-
-you can use this framework to build good looking and responsive web pages.
+All of our team members have at least 3 years of coding experience.
 
 **anyone interested in contributing is welcome. kindly join our discord server**
-### [github 🙂](https://discord.gg/ujpJNpvCa8)
+### [discord 🙂](https://discord.gg/ujpJNpvCa8)
 
 # credits
 

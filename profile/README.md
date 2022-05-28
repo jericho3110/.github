@@ -22,7 +22,7 @@ All of our team members have a good experience in programming.
 #### [github: Edgetec](https://github.com/Edgetec)
 ---
 > CTO 🏅
-### Jericho
+### Jericho Cabucos
 #### discord: South Valley#4534
 #### [github: jericho3110](https://github.com/jericho3110)
 ---

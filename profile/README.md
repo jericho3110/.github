@@ -1,10 +1,10 @@
-# Arantic tutorials 🎊
+# Welcome Arantic Tutorials! 🎊
 
-Arantic tutorials is our company which is trying to make knowledge more accessible to people
+## We believe that Education should be free and easily accessed by people all around the world. 
 
-We create interactive text based tutorials.
+## So we created an interactive text based Web Application solely based for Programming Tutorials
 
-All of our team members have a good experience in programming.
+### This project is handled by our team filled with members having a good understanding in programming.
 
 **anyone interested in contributing is welcome. kindly join our [discord](https://discord.gg/ujpJNpvCa8) server**
 

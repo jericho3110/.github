@@ -6,8 +6,7 @@ We create interactive text based tutorials.
 
 All of our team members have a good experience in programming.
 
-**anyone interested in contributing is welcome. kindly join our discord server**
-### [discord 🙂](https://discord.gg/ujpJNpvCa8)
+**anyone interested in contributing is welcome. kindly join our [discord](https://discord.gg/ujpJNpvCa8) server**
 
 # credits
 

@@ -1,6 +1,6 @@
 # Welcome to Arantic Tutorials! 🎊
 
-### We believe that Education should be free and easily accessed by people all around the world. 
+### We believe that Education is predominant and should be easily accessed by people all around the world. 
 
 ### So we created an interactive text based Web Application solely based for Programming Tutorials.
 

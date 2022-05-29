@@ -1,5 +1,4 @@
 # Welcome Arantic Tutorials! 🎊
-<br>
 
 ### We believe that Education should be free and easily accessed by people all around the world. 
 

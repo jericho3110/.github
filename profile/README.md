@@ -1,12 +1,12 @@
 # Welcome Arantic Tutorials! 🎊
-
+<br>
 ### We believe that Education should be free and easily accessed by people all around the world. 
 
 ### So we created an interactive text based Web Application solely based for Programming Tutorials
 
 ### This project is handled by our team filled with members having a good understanding in programming.
 
-**anyone interested in contributing is welcome. kindly join our [discord](https://discord.gg/ujpJNpvCa8) server**
+**Anyone interested in contributing is welcome! Just join our [discord](https://discord.gg/ujpJNpvCa8) server!**
 
 # credits
 

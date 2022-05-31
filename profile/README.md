@@ -16,6 +16,11 @@
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)
 ---
 > CEO 🏅
+### Aniket Sharma
+#### discord: aniket#2430
+#### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
+---
+> COO 🏅
 ### Edge Tech Coder
 #### discord: Edge tech coder404 ⌁乛ᴿᴰ#6053
 #### [github: Edgetec](https://github.com/Edgetec)
@@ -25,8 +30,7 @@
 #### discord: South Valley#4534
 #### [github: jericho3110](https://github.com/jericho3110)
 ---
-> COO 🏅
-### Aniket Sharma
-#### discord: aniket#2430
-#### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
----
+> Manager 🏅
+### Sai
+#### discord: Spot Studies#5695
+#### [github: SpotStudies](https://github.com/SpotStudies)

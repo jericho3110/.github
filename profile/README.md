@@ -10,7 +10,7 @@
 
 # credits
 
-> Founder 🏅
+> Founder & Co-CEO 🏅
 ### Aryan Tripathi
 #### discord: AryanTripathi#1313
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)

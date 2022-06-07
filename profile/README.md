@@ -2,7 +2,7 @@
 
 ### We believe that Education is predominant and should be easily accessed by people all around the world. 
 
-### So we created an interactive text based Web Application solely based for Programming Tutorials.
+### So we created an interactive Web Application solely based for Programming Tutorials.
 
 ### This project is handled by our team filled with members having a good understanding in programming.
 

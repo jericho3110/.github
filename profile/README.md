@@ -20,7 +20,7 @@
 #### discord: aniket#2430
 #### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
 
- Vice President & Project Manager 🏅
+> Vice President & Project Manager 🏅
 ### Ibrahim Nadeem
 #### Discord: FalconLordx#7164
 #### [github: Ibrahimdevcode](https://github.com/Ibrahim-dev-code)

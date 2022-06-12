@@ -16,9 +16,9 @@
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)
 ---
 > CEO 🏅
-### Aniket Sharma
-#### discord: aniket#2430
-#### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
+### Jericho Cabucos
+#### discord: South Valley#4534
+#### [github: jericho3110](https://github.com/jericho3110)
 
 ---
 
@@ -33,11 +33,8 @@
 #### [github: Edgetec](https://github.com/Edgetec)
 ---
 > CTO 🏅
-### Jericho Cabucos
-#### discord: South Valley#4534
-#### [github: jericho3110](https://github.com/jericho3110)
----
-> Manager 🏅
 ### Sai
 #### discord: Spot Studies#5695
 #### [github: SpotStudies](https://github.com/SpotStudies)
+---
+> Manager 🏅

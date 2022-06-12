@@ -19,6 +19,12 @@
 ### Aniket Sharma
 #### discord: aniket#2430
 #### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
+
+Vice President 🏅
+### Ibrahim Nadeem
+####discord: FalconLordx#7164
+#### [github:Ibrahimdevcode] (https://github.com/Ibrahim-dev-code)
+#### linkedin: https://www.linkedin.com/in/ibrahim-nadeem-6329ba220/
 ---
 > COO 🏅
 ### Edge Tech Coder

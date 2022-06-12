@@ -21,10 +21,10 @@
 #### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
 
 Vice President 🏅
-### Ibrahim Nadeem
-####discord: FalconLordx#7164
-#### [github:Ibrahimdevcode] (https://github.com/Ibrahim-dev-code)
-#### linkedin: https://www.linkedin.com/in/ibrahim-nadeem-6329ba220/
+  Ibrahim Nadeem
+  Discord: FalconLordx#7164
+  Github:Ibrahimdevcode https://github.com/Ibrahim-dev-code
+  Linkedin: https://www.linkedin.com/in/ibrahim-nadeem-6329ba220/
 ---
 > COO 🏅
 ### Edge Tech Coder

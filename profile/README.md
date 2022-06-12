@@ -16,15 +16,14 @@
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)
 ---
 > CEO 🏅
-### South Valley
-#### discord: South Valley#4534
-#### [github: ANIKETSHARMAGIT56](https://github.com/jericho3110)
----
+### Aniket Sharma
+#### discord: aniket#2430
+#### [github: ANIKETSHARMAGIT56](https://github.com/ANIKETSHARMAGIT56)
 
-> Vice President 🏅
+ Vice President & Project Manager 🏅
 ### Ibrahim Nadeem
-#### discord: FalconLordx#7164
-#### [github:Ibrahimdevcode](https://github.com/Ibrahim-dev-code)
+#### Discord: FalconLordx#7164
+#### [github: Ibrahimdevcode](https://github.com/Ibrahim-dev-code)
 ---
 > COO 🏅
 ### Edge Tech Coder
@@ -32,8 +31,11 @@
 #### [github: Edgetec](https://github.com/Edgetec)
 ---
 > CTO 🏅
+### Jericho Cabucos
+#### discord: South Valley#4534
+#### [github: jericho3110](https://github.com/jericho3110)
+---
+> Manager 🏅
 ### Sai
 #### discord: Spot Studies#5695
 #### [github: SpotStudies](https://github.com/SpotStudies)
----
-> Manager 🏅

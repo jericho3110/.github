@@ -1,12 +1,6 @@
-# Welcome to Arantic Tutorials! 🎊
+# Welcome to Arindmy! 🎊
 
-### We believe that Education is predominant and should be easily accessed by people all around the world. 
-
-### So we created an interactive Web Application solely based for Programming Tutorials.
-
-### This project is handled by our team filled with members having a good understanding in programming.
-
-**Anyone interested in contributing is welcome! Just join our [discord](https://discord.gg/ujpJNpvCa8) server!**
+We are a newly startup known as Arindmy, we have free and paid tutorials, our paid tutorial's price is minimum $0.99 and maximum is $2.06, To get any kind of help or have any questions feel free to ask in our discord server [https://discord.gg/kjhXnbrh7z](https://discord.gg/kjhXnbrh7z)
 
 # credits
 
@@ -22,10 +16,10 @@
 
 ---
 
-> Vice President & Project Manager 🏅
-### Ibrahim Nadeem
-#### Discord: FalconLordx#7164
-#### [github: Ibrahimdevcode](https://github.com/Ibrahim-dev-code)
+> President 🏅
+### Sai
+#### discord: Spot Studies#5695
+#### [github: SpotStudies](https://github.com/SpotStudies)
 ---
 > COO 🏅
 ### Edge Tech Coder
@@ -37,4 +31,3 @@
 #### discord: Spot Studies#5695
 #### [github: SpotStudies](https://github.com/SpotStudies)
 ---
-> Manager 🏅

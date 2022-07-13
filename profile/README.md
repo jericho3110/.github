@@ -10,7 +10,7 @@ We are a newly startup known as Arindmy, we have free and paid tutorials, our pa
 #### [github: MrBlueBird2](https://github.com/MrBlueBird2)
 ---
 > CEO 🏅
-### Jericho Cabucos
+### South Valley
 #### discord: South Valley#4534
 #### [github: jericho3110](https://github.com/jericho3110)
 
